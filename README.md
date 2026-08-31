@@ -2,13 +2,10 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Sunway University, Kuala Lumpur.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Design, and Computer Systems.\
 ✍️ &nbsp;In my free time, I pursue Website Design and other personal projects as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me\
-✉️ &nbsp;You can shoot me an email at muhammadabbas1011@outlook.com! I'll try to respond as soon as I can.\
+💬 &nbsp;Feel free to reach out to me at muhammadabbas1011@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://abbasii.dev/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -64,5 +61,3 @@
 <a href="mailto:muhammadabbas1011@outlook.com"><img src="https://img.shields.io/badge/Outlook-muhammadabbas1011%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://instagram.com/abbasij1"><img src="https://img.shields.io/badge/-@abbasij1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-<p style="font-size:7px">@Credits</p>
