@@ -20,7 +20,7 @@
 ![Unity3D](https://img.shields.io/badge/-Unity%203D-05122A?style=flat&logo=unity)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=#663399)&nbsp;\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=#663399)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron&logoColor=#47848F)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=#9135FF)&nbsp;
 ![Forge](https://img.shields.io/badge/-Forge-05122A?style=flat&logo=electron&logoColor=#9135FF)&nbsp;
@@ -75,14 +75,6 @@
   </a>
 </p>
 <!-- FEATURED:END -->
-
-### 👨‍🔧 &nbsp;Currently Working on...
-Project 1: Pomorodo desktop\
-Project 2: Watch faces API\
-Project 3: to be finalized...\
-Project 4: to be finalized...
-
-<br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
