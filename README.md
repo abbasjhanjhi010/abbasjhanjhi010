@@ -56,6 +56,23 @@
 <br>
 <br>
 
+### 🚀 &nbsp;Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MuhammadAbbas010/pomorodo-desktop">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=pomorodo-desktop&theme=algolia"
+    />
+  </a>
+
+  <a href="https://github.com/MuhammadAbbas010/YOUR-SECOND-REPO">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=YOUR-SECOND-REPO&theme=algolia"
+    />
+  </a>
+</p>
 
 ### 👨‍🔧 &nbsp;Currently Working on...
 Project 1: Pomorodo desktop\
