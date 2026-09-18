@@ -58,6 +58,7 @@
 
 ### 🚀 &nbsp;Featured Projects
 
+<!-- FEATURED:START -->
 <p align="center">
   <a href="https://github.com/MuhammadAbbas010/pomorodo-desktop">
     <img
@@ -73,6 +74,7 @@
     />
   </a>
 </p>
+<!-- FEATURED:END -->
 
 ### 👨‍🔧 &nbsp;Currently Working on...
 Project 1: Pomorodo desktop\
