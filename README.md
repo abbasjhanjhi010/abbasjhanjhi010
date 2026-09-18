@@ -67,10 +67,10 @@
     />
   </a>
 
-  <a href="https://github.com/MuhammadAbbas010/YOUR-SECOND-REPO">
+  <a href="https://github.com/MuhammadAbbas010/CompetitiveProgramming">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=YOUR-SECOND-REPO&theme=algolia"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=CompetitiveProgramming&theme=algolia"
     />
   </a>
 </p>
