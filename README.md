@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Design, and Computer Systems.\
-✍️ &nbsp;In my free time, I pursue Website Design and other personal projects as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me at muhammadabbas1011@outlook.com! I'll try to respond as soon as I can.\
+🌱 &nbsp;I'm on track for learning more about AI/ML, Web and Windows app design, and using APIs.\
+✍️ &nbsp;In my free time, I pursue Web dev, and my other personal projects.\
+💬 &nbsp;Feel free to reach out to me through [email](muhammadabbas1011@outlook.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://abbasii.dev/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -20,17 +20,22 @@
 ![Unity3D](https://img.shields.io/badge/-Unity%203D-05122A?style=flat&logo=unity)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=#663399)&nbsp;\
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron&logoColor=#47848F)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=#9135FF)&nbsp;
+![Forge](https://img.shields.io/badge/-Forge-05122A?style=flat&logo=electron&logoColor=#9135FF)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=#9135FF)&nbsp;
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-05122A?style=flat&logo=visualbasic&logoColor=512BD4)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL\-05122A?style=flat&logo=mysql&logoColor=879cc7)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37726)&nbsp;
-![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access\-05122A?style=flat&logo=access&logoColor=879cc7)&nbsp;
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access\-05122A?style=flat&logo=access&logoColor=879cc7)&nbsp;\
+<br>
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Flask](https://img.shields.io/badge/-Flask%20API-05122A?style=flat&logo=flask)&nbsp;      <!--                          API's                           -->
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 
 <!--
@@ -50,7 +55,16 @@
 
 <br>
 <br>
+
+
+### 👨‍🔧 &nbsp;Currently Working on...
+Project 1: Pomorodo desktop\
+Project 2: Watch faces API\
+Project 3: to be finalized...\
+Project 4: to be finalized...
+
 <br>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
