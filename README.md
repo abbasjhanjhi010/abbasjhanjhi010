@@ -60,17 +60,17 @@
 
 <!-- FEATURED:START -->
 <p align="center">
-  <a href="https://github.com/MuhammadAbbas010/my-portfolio-site">
+  <a href="https://github.com/MuhammadAbbas010/abbasii.dev">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=my-portfolio-site&theme=algolia"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=abbasii.dev&theme=algolia"
     />
   </a>
 
-  <a href="https://github.com/MuhammadAbbas010/A-Levels_repo">
+  <a href="https://github.com/MuhammadAbbas010/pomorodo-desktop">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=A-Levels_repo&theme=algolia"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=pomorodo-desktop&theme=algolia"
     />
   </a>
 </p>
