@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about AI/ML, Web and Windows app design, and using APIs.\
 ✍️ &nbsp;In my free time, I pursue Web dev, and my other personal projects.\
 💬 &nbsp;Feel free to reach out to me through [email](muhammadabbas1011@outlook.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://abbasii.dev/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://resume.abbasii.dev/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
