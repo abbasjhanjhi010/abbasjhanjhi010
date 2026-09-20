@@ -1,96 +1,36 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>خوش آمدید!</h2>
+# abbasjhanjhi
+### Uni CS student, exploring new tech.
 
+I'm spreading myself across a few different things on purpose — web dev, building desktop apps, experimenting with APIs, and currently exploring my way into  AI/ML. I dabbled in game dev back in school and now I'm mostly focused on becoming a better developer overall, including contributing to open source.
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about AI/ML, Web and Windows app design, and using APIs.\
-✍️ &nbsp;In my free time, I pursue Web dev, and my other personal projects.\
-💬 &nbsp;Feel free to reach out to me through [email](muhammadabbas1011@outlook.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://resume.abbasii.dev/) for more details about me. I'm open to feedback and suggestions!
+&nbsp;
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+> **previously** — game dev in school (Unity), A-Level coursework in VB.NET
+> **also previoisly** — picked up web dev, Electron, and Node on the side
+> **currently** — university CS student, building pomorodo-desktop, exploring APIs and AI/ML
+> **moving forward** — open to club/university project collabs, and internships
 
-### 🛠 &nbsp;Tech Stack
+&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
-![Unity3D](https://img.shields.io/badge/-Unity%203D-05122A?style=flat&logo=unity)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=#663399)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron&logoColor=#47848F)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=#9135FF)&nbsp;
-![Forge](https://img.shields.io/badge/-Forge-05122A?style=flat&logo=electron&logoColor=#9135FF)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=#9135FF)&nbsp;
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-05122A?style=flat&logo=visualbasic&logoColor=512BD4)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL\-05122A?style=flat&logo=mysql&logoColor=879cc7)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37726)&nbsp;
-![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access\-05122A?style=flat&logo=access&logoColor=879cc7)&nbsp;\
-<br>
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![Flask](https://img.shields.io/badge/-Flask%20API-05122A?style=flat&logo=flask)&nbsp;      <!--                          API's                           -->
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+**Languages** — Python, JavaScript, TypeScript, C++, C#, SQL\
+**Tools & frameworks** — Node.js, Electron, Vite, Flask, FastAPI, Unity3D, Jupyter\
+**Currently exploring** — AI/ML fundamentals, TypeScript, Flask, FastAPI
 
+&nbsp;
 
-<!--
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+**Projects**
+- [pomorodo-desktop](https://github.com/MuhammadAbbas010/pomorodo-desktop) — compact desktop Pomodoro app
+- [calBot](https://github.com/MuhammadAbbas010/calBot) — adds events to Google Calendar via API, using AI to extract key data from input
+- [WEB1201-Athena-Cafe](https://github.com/WayneLesp/WEB1201-WEB-FUNDAMENTALS-FINAL-PROJECT) — coffee shop site, uni web dev coursework
 
--->
-
-<br>
-<br>
-
-### 🚀 &nbsp;Featured Projects
-
-<!-- FEATURED:START -->
-<p align="center">
-  <a href="https://github.com/MuhammadAbbas010/abbasii.dev">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=abbasii.dev&theme=algolia"
-    />
-  </a>
-
-  <a href="https://github.com/MuhammadAbbas010/pomorodo-desktop">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbbas010&repo=pomorodo-desktop&theme=algolia"
-    />
-  </a>
-</p>
-<!-- FEATURED:END -->
-
-
-### ⚙️ &nbsp;GitHub Analytics
+&nbsp;
 
 <p align="center">
-<a href="https://github.com/muhammadabbas010">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadabbas010&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadabbas010&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.abbasii.dev"><img src="https://img.shields.io/badge/-abbasii.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammadabbas-j/)"><img src="https://img.shields.io/badge/-Muhammad%20Abbas%20J-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muhammadabbas1011@outlook.com"><img src="https://img.shields.io/badge/Outlook-muhammadabbas1011%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://instagram.com/abbasij1"><img src="https://img.shields.io/badge/-@abbasij1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href= "https://abbasii.dev"><em>Site</em></a>
+  <a> · </a>
+  <a href="https://resume.abbasii.dev"><em>Résumé</em></a>
+  <a> · </a>
+  <a href="mailto:muhammadabbas1011@outlook.com"><em>Email</em></a>
+  <a> · </a>
+  <a href="https://www.linkedin.com/in/muhammadabbas-j/"><em>LinkedIn</em></a>
 </p>
