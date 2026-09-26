@@ -12,16 +12,16 @@ I'm spreading myself across a few different things on purpose — web dev, build
 
 &nbsp;
 
-**Languages** — Python, JavaScript, TypeScript, C++, C#, SQL\
-**Tools & frameworks** — Node.js, Electron, Vite, Flask, FastAPI, Unity3D, Jupyter\
-**Currently exploring** — AI/ML fundamentals, TypeScript, Flask, FastAPI
+**Languages** — Python, JavaScript, C#, SQL\
+**Tools & frameworks** — Node.js, Electron, Vite, FastAPI, Unity3D, Jupyter\
+**Currently exploring** — AI/ML fundamentals, Open-source, FastAPI
 
 &nbsp;
 
 **Projects**
-- [pomorodo-desktop](https://github.com/MuhammadAbbas010/pomorodo-desktop) — compact desktop Pomodoro app
-- [calBot](https://github.com/MuhammadAbbas010/calBot) — adds events to Google Calendar via API, using AI to extract key data from input
-- [WEB1201-Athena-Cafe](https://github.com/WayneLesp/WEB1201-WEB-FUNDAMENTALS-FINAL-PROJECT) — coffee shop site, uni web dev coursework
+- [pomorodo-desktop](https://github.com/abbasjhanjhi010/pomorodo-desktop) — compact desktop Pomodoro app
+- [calBot](https://github.com/abbasjhanjhi010/calBot) — adds events to Google Calendar via API, using AI to extract key data from input
+- [jsGames](https://github.com/abbasjhanjhi010/js-games) — a collection of all my javascript games hosted on a website
 
 &nbsp;
 
