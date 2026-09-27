@@ -1,12 +1,11 @@
-# abbasjhanjhi
-### Uni CS student, exploring new tech.
+# helloWorld!👋
 
-I'm spreading myself across a few different things on purpose — web dev, building desktop apps, experimenting with APIs, and currently exploring my way into  AI/ML. I dabbled in game dev back in school and now I'm mostly focused on becoming a better developer overall, including contributing to open source.
+I'm currently trying out a multitude of CS branches — web dev, building desktop apps, experimenting with APIs, and currently learning my way into  AI/ML. I dabbled in game dev back in school but currently I'm mostly focused on bettering myself as a developer, with an aim to contribute to open source.
 
 &nbsp;
 
 > **previously** — game dev in school (Unity), A-Level coursework in VB.NET
-> **also previoisly** — picked up web dev, Electron, and Node on the side
+> **also previoisly** — picked up web dev & Electron
 > **currently** — university CS student, building pomorodo-desktop, exploring APIs and AI/ML
 > **moving forward** — open to club/university project collabs, and internships
 
