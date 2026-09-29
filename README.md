@@ -1,12 +1,12 @@
-# helloWorld!👋
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="Cat with Tears of Joy" width="40" height="40" /> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Door.png" alt="Door" width="35" height="42" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
+
 
 I'm currently trying out a multitude of CS branches — web dev, building desktop apps, experimenting with APIs, and currently learning my way into  AI/ML. I dabbled in game dev back in school but currently I'm mostly focused on bettering myself as a developer, with an aim to contribute to open source.
 
 &nbsp;
 
-> **previously** — game dev in school (Unity), A-Level coursework in VB.NET
-> **also previoisly** — picked up web dev & Electron
-> **currently** — university CS student, building pomorodo-desktop, exploring APIs and AI/ML
+> **previously** — game dev in school (Unity), A-Level coursework in VB.NET, picked up web dev and desktop apps with electron
+> **currently** — university CS student, tinkering with projects exploring APIs and AI/ML \
 > **moving forward** — open to club/university project collabs, and internships
 
 &nbsp;
