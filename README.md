@@ -26,7 +26,7 @@ I'm currently trying out a multitude of CS branches — web dev, building deskto
 &nbsp;
 
 <p align="center">
-  <a href= "https://abbasii.dev"><em>Site</em></a>
+  <a href= "https://codeberg.org/abbasjhanjhi010"><em>Codeberg</em></a>
   <a> · </a>
   <a href="https://resume.abbasii.dev"><em>Résumé</em></a>
   <a> · </a>
